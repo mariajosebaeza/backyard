@@ -49,17 +49,29 @@ h2{
 .formulario {
 	padding-top: 15px;
 }
-button {
+#botonsubs{
 	background-color: #32A7F9;
 	text-align: center;
-	margin-left: 50px; 
-	margin-top: 12px;	
+	margin-left: 40px; 
+	margin-top: 12px;
+	padding: 2px 20px 2px 20px;
+	border: 1px #32A7F9 solid;
+	border-radius: 5%;	
+	color: white;
 }
 .nombre {
 	margin-top: 10px;
-	margin-left: 12px;
+	margin-left: 30px;
 }
 .email {
 	margin-top: 10px;
-	margin-left: 12px;
+	margin-left: 30px;
+}
+.footer {
+	padding-top: 15px;
+	padding-left: 30px;
+	color: #A0A0A0;
+}
+p{
+	text-align: justify;
 }
